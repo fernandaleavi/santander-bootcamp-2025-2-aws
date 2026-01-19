@@ -1,14 +1,16 @@
-# RELAÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 19/01/2026
+
 Empresa: Abstergo Industries 
+
 Responsável: Fernanda LeAvi
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Fernanda LeAvi. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos relacionados à infraestrutura de TI, garantindo escalabilidade, segurança e alta disponibilidade para operações críticas. 
 
 ## Descrição do Projeto
-O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos especí­ficos. A seguir, serão descritas as etapas do projeto:
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
 #### Etapa 1: Amazon EC2 com Savings Plans
 ##### Otimização de Infraestrutura
@@ -18,7 +20,7 @@ O objetivo inicial é migrar servidores físicos ou máquinas virtuais locais pa
 #### Etapa 2: Amazon S3
 ##### Armazenamento Econômico e Seguro
 *Descrição de case de uso:* 
-O objetivo nessa fase é centralizar dados de estoque, relatórios financeiros e backups em buckets S3, utilizando políticas de ciclo de vida para mover dados antigos para classes de armazenamento mais baratas, como S3 Glacier para dados raramente acessados. Isso permitiria reduzir custos com armazenamento local e aumenta a segurança e disponibilidade dos dados.
+O objetivo nessa fase é centralizar dados de estoque, relatórios financeiros e backups em buckets S3, utilizando políticas de ciclo de vida para mover dados antigos para classes de armazenamento mais baratas, como S3 Glacier para dados raramente acessados. Isso permitiria reduzir custos com armazenamento local e aumentar a segurança e disponibilidade dos dados.
 
 #### Etapa 3: AWS Lambda
 ##### Automação e Redução de Custos Operacionais
@@ -30,4 +32,5 @@ A implementação de ferramentas na empresa *Abstergo Industries tem como espera
 
 
 Assinatura do Responsável pelo Projeto:
+
 Fernanda LeAvi
